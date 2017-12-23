@@ -7,3 +7,4 @@ git add index.txt
 git commit -m "se agrego index.txt"
 git push
 git config user.name 
+editado
