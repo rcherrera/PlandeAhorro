@@ -1,1 +1,8 @@
 Comandos principales para Git Hub
+
+git clone http://misitiodegithub
+git pull para sincronizar 
+git status
+git add index.txt
+git commit -m "se agrego index.txt"
+git push
